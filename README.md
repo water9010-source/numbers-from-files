@@ -13,7 +13,7 @@ AI 回報的數字常常是記憶裡的、上一份抄來的，或分類講錯�
 - 不保證一定有效；AI 不一定每次都照做。
 
 ## 取得
-1 美元：https://aquaquest23.gumroad.com/l/yebkk
+購買：https://aquaquest23.gumroad.com/l/yebkk
 
 ## 開發者
 LI WEI，「治理系統 Pro」的開發者。內容整理自開發者過去檢查 AI 報告數字時記下的經驗；製作完成後經過另一個 AI 對話獨立檢查。
@@ -23,4 +23,4 @@ LI WEI，「治理系統 Pro」的開發者。內容整理自開發者過去檢�
 
 ---
 
-English: A Claude Skill (Traditional Chinese): Numbers From Files. No usage record yet. Developer: LI WEI, creator of 治理系統 Pro (Governance System Pro). You may use and modify it; any modified or shared copy must keep LICENSE.txt and the line "Original author: LI WEI". Get it for USD 1 on Gumroad: https://aquaquest23.gumroad.com/l/yebkk.
+English: A Claude Skill (Traditional Chinese): Numbers From Files. No usage record yet. Developer: LI WEI, creator of 治理系統 Pro (Governance System Pro). You may use and modify it; any modified or shared copy must keep LICENSE.txt and the line "Original author: LI WEI". Get it on Gumroad: https://aquaquest23.gumroad.com/l/yebkk.
